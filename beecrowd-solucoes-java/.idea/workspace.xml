@@ -30,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Emanuel/Documents/gihub-exercicios/project-euler"
+    "last_opened_file_path": "C:/Users/Emanuel/Documents/GitHub/hackerhank/hackerhank-java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -38,7 +38,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Bee1002_AreaDoCirculo">
     <configuration name="Bee1000_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bee1000_HelloWorld" />
       <module name="beecrowd-solucoes-java" />
@@ -46,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bee1002_AreaDoCirculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bee1002_AreaDoCirculo" />
+      <module name="beecrowd-solucoes-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bee1002_AreaDoCirculo" />
         <item itemvalue="Application.Bee1000_HelloWorld" />
       </list>
     </recent_temporary>
